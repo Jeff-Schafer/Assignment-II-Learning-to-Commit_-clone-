@@ -1,3 +1,7 @@
 body {
-    background: linear-gradient(180deg, #075A87 0%, #05c1ff 50%, #075A87 100%);
+ background: linear-gradient(180deg, #075A87 0%, #05c1ff 50%, #075A87 100%);
+}
+li {
+ font-weight: bold;
+ font-style: italic;
 }
